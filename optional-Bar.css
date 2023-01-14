@@ -1,0 +1,190 @@
+/* Optional Menu Bar section is starting from here */
+.top-optional-div{
+    background-color: white;
+    display: flex;
+    height: 52px;
+    align-items: center;
+    margin-bottom: 25px;
+
+
+    position: fixed;
+    top: 65px;
+    left: 96px;
+    right: 0;
+    z-index: 100;
+    background-color: white;
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(240, 240, 240);
+    margin-bottom: 27px;
+    margin-right: 30px;
+    border: none;
+}
+.all-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31px;
+    width: 41px;
+    border-radius: 8px;
+    margin-bottom: 14px;
+    font-size: 13.5px;
+    cursor: pointer;
+    margin-left: 0px;
+    padding-top: 1px;
+}
+.aftab-iqbal-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 103px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    margin-left: 12px;
+    cursor: pointer;
+    padding-left: 3px;
+    padding-right: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.game-show-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 90px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.music-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 70px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+.national-team-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 210px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+.nusrat-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 160px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+.live-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 70px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+.pakistani-drama-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 130px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+.allama-iqbal-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 130px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+.youtube-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(15, 15, 15);
+    height: 31.5px;
+    width: 130px;
+    border-radius: 7px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+.arrow-key{
+    height: 25px;
+    margin-left: 6px;
+    margin-bottom: 5px;
+    margin-right: 9px;
+    cursor: pointer;
+    color: black;
+    margin-bottom: 14px;
+}
+
+.liist{
+    background-color: rgb(8, 8, 8);
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+}
+.video-preview{
+    cursor: pointer;
+}
